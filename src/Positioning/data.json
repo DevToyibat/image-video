@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "img": "bright.PNG",
+    "vid": "bright.MP4"
+  },
+
+  {
+    "id": 2,
+    "img": "dia.JPG",
+    "vid": "dia.MP4"
+  },
+
+  {
+    "id": 3,
+    "img": "eli.JPG",
+    "vid": "eli.MP4"
+  }
+]
